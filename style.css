@@ -1,0 +1,52 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.color{
+    color: coral;
+
+}
+.h1clr{
+    background-color: rgb(49, 170, 170);
+}
+.page-clr{
+    width: 40%;
+    background-image: linear-gradient(red,white);
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: rgb(49, 49, 236);
+}
+.pic-add{
+    width: 60%;
+    height: 40%;
+}
+.first{
+    margin: 10px;
+    padding: 5px;
+}
+.first image{
+    width: 80%;
+}
+#hlw{
+    color: rgb(185, 15, 129);
+}
+.olee{
+    color: darkred;
+}
+.sectwo{
+    display: flex;
+    padding: 15px;
+}
+.sectwo image{
+    width: 100%;
+}
+#des{
+    background-color: deepskyblue;
+    padding: 5px 5px;
+    margin-bottom: 10px;
+}
+#desi{
+    background-color: rgb(132, 0, 255);
+    padding: 5px 5px;
+}
