@@ -88,3 +88,6 @@ h1 {
   border-image-slice: 1;
   border-radius: 10px;
 }
+footer {
+  text-align: center;
+}
